@@ -1,0 +1,9 @@
+{
+  "id": "paseo-filedrop",
+  "name": "Paseo FileDrop",
+  "description": "Securely upload a local browser file into the current Paseo workspace.",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.15.4"
+  }
+}
